@@ -19,4 +19,4 @@ Deployment happens automatically via GitHub Actions when you push to main.
 
 Go to your repo Settings > Pages and set Source to GitHub Actions.
 
-Your site will be live at: https://YOUR_USERNAME.github.io/poisson-explorer/
+Your site will be live at: https://mhallida.github.io/poisson
